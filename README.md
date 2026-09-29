@@ -53,7 +53,9 @@ Jogo_Velha/
  ┃   ┗ 📂 java/
  ┃     ┗ 📂 com/mycompany/jogo_velha/
  ┃       ┗ 📄 Jogo_Velha.java
- ┗ 📄 pom.xml
+ ┣ 📄 pom.xml
+ ┣ 📄 README.md
+ ┗ 📄 .gitignore
 ```
 
 ---
